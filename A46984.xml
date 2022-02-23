@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the vindicator of the Bishop of Condom to the author of a late discourse concerning the sacrament of Extreme unction</title>
+            <author>Johnston, Joseph, d. 1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46984</idno>
+            <idno type="STC">Wing J869</idno>
+            <idno type="STC">ESTC R30476</idno>
+            <idno type="EEBO-CITATION">11332973</idno>
+            <idno type="OCLC">ocm 11332973</idno>
+            <idno type="VID">47488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1465:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the vindicator of the Bishop of Condom to the author of a late discourse concerning the sacrament of Extreme unction</title>
+                  <author>Johnston, Joseph, d. 1723.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing, NUC pre-1956 imprints to Johnston.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clagett, William, 1646-1688. --  A discourse concerning the pretended sacrament of Extreme unction.</term>
+               <term>Extreme unction.</term>
+               <term>Sacraments.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:47488:1"/>
+            <pb n="1" facs="tcp:47488:1"/>
+            <head>A Letter from the Vindicator of the Biſhop of <hi>Condom,</hi> to the Author of a late Diſcourſe concerning the Sacrament of <hi>Extreme Un<g ref="char:EOLhyphen"/>ction.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>PRefaces are now much in vogue; but your Diſcourſe, it ſeems, had come out without any, had not my Vindication obliged you to direct one to Me, whom you think to be concern'd to peruſe your Papers. Really, <hi>Sir,</hi> I think it would have been much more prudence in you not to have called upon me at this time, or at leaſt to have ſhewn a more modeſt and ſincere Be<g ref="char:EOLhyphen"/>havior that you have done. For if the exceptions you make againſt me in your Preface prove vain, the <hi>Tales</hi> you lay to my charge, be meer cavils, or your own; and, inſtead of juſtifying the Defender, you involve your ſelf in the ſame guilt; you give me and all honeſt well-meaning perſons juſt reaſon to ſuſpect the whole Book that follows.</p>
+            <p>You ſay you did not fall aſleep when you came to my Article of <hi>Extreme <g ref="char:V">Ʋ</g>nction;</hi> and really, <hi>Sir,</hi> I believe you: but whether you were kept awake by a more than uſu<g ref="char:EOLhyphen"/>al curioſity, or by a deſire to inform your judgment, or by ſome ſuch kind of paſſions as are uſually raiſed in Chymiſts, when af<g ref="char:EOLhyphen"/>ter a long and tedious diligence and la<g ref="char:EOLhyphen"/>bor, they find all their expectations loſt in a ſmoky Evaporation, is not eaſie for me to determine. But this is certain, if there be nothing ſaid in all your eighteen Sheets, but what in five pages of my Reply has ei<g ref="char:EOLhyphen"/>ther been prevented, or ſuch grounds laid, <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s with a ſmall Reflection will afford a ſuf<g ref="char:EOLhyphen"/>ficient Anſwer; you had more than the two firſt Reaſons to keep you from ſleeping whil'ſt you peruſed them.</p>
+            <p>But you are reſolv'd not to take my word, becauſe you ſay (<hi>Pref. pag.</hi> 4.) I have <hi>leſ<g ref="char:EOLhyphen"/>ſen'd the Authority of it by telling two <hi>Tales:</hi>
+               </hi> (You had reaſon to beg an excuſe for the Expreſſion, tho' the way you did it makes it a double fault) But what if theſe <hi>Tales</hi> prove of your own coining, and you in them both have groſly impoſed upon me and your Readers? my credit will, I hope, be ſtill good: and the Tables being turned, your word, I fear, will have little Authority with men who hate to be impos'd upon.</p>
+            <p>The <hi>firſt Tale,</hi> you ſay, <hi>and that a notable one,</hi> is, that I make the <hi>Defender himſelf confeſs that this</hi> Extreme Unction <hi>is as anci<g ref="char:EOLhyphen"/>ent and univerſal a Practice as I would have it thought to be:</hi> Whereas <hi>you find indeed the Defender confeſſing, that the Interpretation of the words of St</hi> James, <hi>which he followed, was for</hi> 800 <hi>years the undoubted meaning of them, and that the ancient Liturgies of the Church, and the public Practice of it for above</hi> 800 <hi>years, ſhew that they eſteemed this <g ref="char:V">Ʋ</g>ncti<g ref="char:EOLhyphen"/>on,</hi> (i.e. St. <hi>James</hi>'s Unction) <hi>to belong pri<g ref="char:EOLhyphen"/>marily to Bodily Cures, and but ſecondarily only to the ſickneſs of the Soul.</hi> But that I ſhould therefore make him <hi>confeſs Extreme <g ref="char:V">Ʋ</g>nction to have been of ſo ancient ſtanding is to make him ſay the quite contrary to what he does ſay.</hi>
+            </p>
+            <p>But pray, <hi>good Sir,</hi> where is it that I make the Defender confeſs this <hi>Extreme <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>ction</hi> to be ſo old? Certainly, if you did not ſleep when you read my Reply, you dreamt waking, or your paſſion urg'd you to take an occaſion to cavil with me, tho' none was given. You cannot think, <hi>Sir,</hi> but that if I had really thought the Defen<g ref="char:EOLhyphen"/>der had granted me ſuch a Concluſion as this: <hi>Extreme <g ref="char:V">Ʋ</g>nction, as now practiſed in the Church of</hi> Rome, <hi>was alſo univerſally practi<g ref="char:EOLhyphen"/>ſed in the</hi> Eaſt <hi>and</hi> Weſtern <hi>Churches for the
+<pb n="2" facs="tcp:47488:2"/>
+firſt</hi> 800 <hi>years,</hi> I ſhould have made more be<g ref="char:EOLhyphen"/>nefit of ſuch a Conceſſion. I am certain my Cauſe is not ſo weak, as to ſtand in need of challenging ſuch Conceſſions where they are not granted; neither will you. I hope, when you reflect upon what you ſay, think me ſo ſtupid as to pretend ſuch a Conceſſi<g ref="char:EOLhyphen"/>on, and after ſuch a pretence make no uſe of it.</p>
+            <p>My words in the beginning of that Ar<g ref="char:EOLhyphen"/>ticle (<hi>Reply pag.</hi> 70.) are theſe,— 'Yet, <hi>becauſe he was to oppoſe the Catholic Church, he would have this</hi> (Extreme Unction) <hi>to be only a Ceremony made uſe of in the miraculous Cures of the Apoſtles: And to prove this, he affirmed that the ancient Rituals of the</hi> Roman Church <hi>for</hi> 800 <hi>years after Chriſt, ſhew the Practice to have had the primary reſpect to Bodily Cures.</hi>— Again, §. 53. I ſay, <hi>How! did the Greek and Latin Churches for the firſt</hi> 800 <hi>years practiſe this <g ref="char:V">Ʋ</g>nction; and do Proteſtants, who pretend to reform according to the Primi<g ref="char:EOLhyphen"/>tive Purity, reject it?</hi> But I preſently ſhew the Defender's ſenſe, and add; <hi>Yes, but they</hi> (the Primitive Chriſtians) <hi>practiſed it with a primary reſpect to Bodily Cures, and we</hi> (Roman Catholics) <hi>to thoſe of the Soul.</hi> Moreover, <hi>pag.</hi> 74. I again plainly expreſs my ſelf, that he thought <hi>the Church under<g ref="char:EOLhyphen"/>ſtood that paſſage of St.</hi> James <hi>in His ſenſe</hi> (that is, primarily for Bodily Cures) <hi>for</hi> 800 <hi>years.</hi>
+            </p>
+            <p>Now from all theſe paſſages it plainly appears, that I only argued from his admit<g ref="char:EOLhyphen"/>ting of an Unction practiſed in the Church for the firſt 800 years; which Unction he indeed affirm'd had its primary reſpect to Bodily Cures; and which, I told him, un<g ref="char:EOLhyphen"/>leſs he could prove that it had no relation to the Sickneſs of the Soul, as a Sacra<g ref="char:EOLhyphen"/>ment, but only to the Body, in order to miraculous Cures, he would prove nothing againſt us.</p>
+            <p>Indeed where I ſpeak of his falſifying Cardinal <hi>Cajetan</hi>'s Expreſſion, I have ſome words, which taken alone may bear the ſenſe he would draw them to; for I ſay, <hi>What if Cardinal</hi> Cajetan <hi>had affirmed as he did, would it be ſufficient to reject a Practice coming down from the Apoſtles, and from Age to Age viſibly continued in all Chriſtian Church<g ref="char:EOLhyphen"/>es, both of the</hi> Eaſt <hi>and</hi> Weſt, <hi>for</hi> 800 <hi>years, as he himſelf confeſſes, notwithſtanding the gifts of Miracles were ceaſed; and this upon the Testimony of one man's affirming that it can<g ref="char:EOLhyphen"/>not be proved from that Text of Scripture?</hi> But any one but they who have a mind to cavil will eaſily ſee, by what went before, and my ſeveral expreſſions after, that when I affirmed, that <hi>he himſelf confeſſed that an <g ref="char:V">Ʋ</g>nction was viſibly continued in all Chriſtian Churches, both of the</hi> Eaſt <hi>and</hi> Weſt, <hi>for</hi> 800 <hi>years;</hi> I meant it with thoſe limitations which he had expreſſed, and which I in<g ref="char:EOLhyphen"/>tended afterwards to ſhew were nothing to the purpoſe.</p>
+            <p>But if this do not ſatisfie, rather than multiply diſputes, I will acknowledg, that as the Defender did not confeſs that the Extreme Unction, of which we now ſpeak, which has a primary reſpect to the Soul's Aid, and a ſecondary to that of the Body, was viſibly continued in all Chriſtian Churches, both of the <hi>East</hi> and <hi>West</hi> for 800 years, but only acknowledged that there was an Unction continued with a primary reſpect to Bodily Cures; ſo if my expreſſion in that place have given any one an occaſion to think that the Defender did confeſs ſuch a Continuance without that limitation, I do retract it, and form my Argument thus.</p>
+            <p>I told him that Cardinal <hi>Cajetan</hi> did not poſitively ſay as he affirmed he did. But what if he had? (<hi>Why truly then</hi> (ſays this Diſcourſer) <hi>the Defender did not falſifie him.</hi> No truly, neither ſhould I have accuſed him of it.) Seeing the Defender acknow<g ref="char:EOLhyphen"/>ledges that there was an Unction of the ſick continued in the <hi>Eaſt</hi> and <hi>Weſt</hi> for 800 years; nay, I may add, ſeeing both He and this Diſcourſer (tho' they charge the Church with altering her Intentions, yet) cannot deny but there was an Unction pra<g ref="char:EOLhyphen"/>ctiſed in the <hi>Eaſt</hi> and <hi>Weſtern</hi> Churches from Age to Age, ever ſince the Apoſtles times, notwithſtanding the gifts of Miracles were ceaſed; and ſeeing it is manifeſt that thoſe Rituals of the firſt 800 years, which the Defender ſays had a primary reſpect to Bodily Cures, had alſo a reſpect to thoſe of the Soul, which is Primary in Dignity, as
+<pb n="3" facs="tcp:47488:2"/>
+ours have now to both; and that it can be made out by the very nature of Tradition, that it was morally impoſſible for ſuch ſuc<g ref="char:EOLhyphen"/>ceſſive Innovations to be made as the De<g ref="char:EOLhyphen"/>fender and the Diſcourſer have imagined: what madneſs would it be to reject a pra<g ref="char:EOLhyphen"/>ctice coming down by ſuch an uninterrupted Tradition, and a univerſal conſent of parti<g ref="char:EOLhyphen"/>cular Churches, upon the Teſtimony of one man's affirming that it cannot be proved from that Text of Scripture?</p>
+            <p>But there is a ſecond part of this Tale. <hi>I paſs by</hi> (ſays this Diſcourſer) <hi>your inſinuation, that he</hi> (the Defender) <hi>ſuppoſed the <g ref="char:V">Ʋ</g>nction mentioned by St.</hi> James <hi>was practiſed by the Primitive Church for the firſt</hi> 800 <hi>years. He ſaid no ſuch things nor ſuppoſed any ſuch thing, but only that for</hi> 800 <hi>years they eſteemed St.</hi> James<hi>'s <g ref="char:V">Ʋ</g>nction to belong primarily to Bodily Cures; which they might do, and yet in leſs than</hi> 800 <hi>years they might bring in an <g ref="char:V">Ʋ</g>nction diffe<g ref="char:EOLhyphen"/>rent from that of St.</hi> James, <hi>tho' both of them were primarily deſigned for Bodily Cures.</hi>
+            </p>
+            <p>Now really, <hi>Sir,</hi> if this was inſinuated, it was not without juſt grounds; for ſeeing the Defender's endeavors were to maintain that this expreſſion of St. <hi>James</hi>'s was to be interpreted of Bodily Cures, and back'd his Aſſertion with the ancient Liturgies of the Church, and the public Practice of it for above 800 years, which he affirmed were alſo for Bodily Cures; and ſeeing he did not ſo much as hint at any alteration during all that time: how could any one imagin but he ſuppoſed the Unction mentioned by St. <hi>James</hi> was practiſed till that time? eſ<g ref="char:EOLhyphen"/>pecially ſeeing he could not but foreſee the many woful contradictions which neceſſari<g ref="char:EOLhyphen"/>ly follow ſuch a pretended change as <hi>Chem<g ref="char:EOLhyphen"/>niti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> invented, and you have eſpouſed after him.</p>
+            <p>But now we come to the <hi>ſecond <hi>Tale,</hi> Brother to the former,</hi> and therefore <hi>a notable one</hi> too. <hi>I told him that Cardinal</hi> Cajetan <hi>did not poſitively ſay as the Defender affirm'd he did.</hi> 'Tis true, and I ſay it ſtill a third time, and ſhall make it evidently appear, to any one that will weigh the Propoſitions.</p>
+            <p>The Defender affirm'd that Card. <hi>Cajetan freely confeſſes</hi> that this paſſage of St. <hi>James can belong to no other</hi> than Bodily Cures. <q>But, ſays this Diſcourſer, the only pre<g ref="char:EOLhyphen"/>tence you have that the Cardinal did not poſitively ſay what the Defender affirmed him to have ſaid, is, that the Defender did not give the Cardinal's own words, but what he conceived to be his ſenſe.</q>
+            </p>
+            <p>Here, <hi>Sir,</hi> you are embarqu'd in the ſame Veſſel with the Defender, and eſpouſe his dangers. You affirm with him, that the ſenſe of that paſſage of Cardinal <hi>Cajetan</hi>'s, is a free confeſſion that St. <hi>James's words could belong to no other than Bodily Cures.</hi> Let us lay the Propoſitions together, and ſee whether they be equivalent, or no, or whe<g ref="char:EOLhyphen"/>ther yours be a neceſſary Inference from the other; for if neither of theſe be, I hope you will grant it to look ſomething like what I call'd it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proposition">
+                        <head>The Cardinal's Propoſi<g ref="char:EOLhyphen"/>tion according to your own Tranſlation, is, a Falſification.</head>
+                        <p>
+                           <q>It neither appears by the words, nor by the Effect, that he (St. <hi>James</hi>) ſpeaks of the Sacrament of Ex<g ref="char:EOLhyphen"/>treme Unction, but <hi>rather</hi> of the Unction which our Lord ap<g ref="char:EOLhyphen"/>pointed in the Goſpel to be uſed upon ſick perſons by his Diſciples.</q> For, <hi>&amp;c.</hi>
+                        </p>
+                     </div>
+                     <div type="proposition">
+                        <head>The Defender's Pro<g ref="char:EOLhyphen"/>poſition, is,</head>
+                        <p>Cardinal <hi>Cajetan</hi> freely confeſſes that theſe words of St. <hi>James, Is any man ſick,</hi> &amp;c. can belong to no other than Bo<g ref="char:EOLhyphen"/>dily Cures.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now, <hi>Sir,</hi> that theſe two Propoſitions.</p>
+            <list>
+               <item>Cardinal <hi>Cajetan</hi> acknowleges that Extreme Unction cannot be proved from that paſſage, but rather an Un<g ref="char:EOLhyphen"/>ction for Bodily Cures,</item>
+            </list>
+            <p>and </p>
+            <list>
+               <item>
+                  <hi>Cardinal</hi> Cajetan freely confeſſes that that paſſage can belong to no other but Bodily Cures,</item>
+            </list>
+            <p>are not equivalent, I appeal to any one who can but underſtand a difference be<g ref="char:EOLhyphen"/>twixt theſe two Propoſitions, <hi>What you ſay does not prove the Aſſertion;</hi> and, <hi>What you ſay proves the contrary.</hi>
+            </p>
+            <p>But it may be the one is a neceſſary Infe<g ref="char:EOLhyphen"/>rence from the other; for, as the Defender ſays, <hi>When two things only are in Controverſie, for the Cardinal abſolutely to exclude the one, and apply it to the other, is in effect to confeſs that it could only belong in that.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:47488:3"/>Well, but what if the Cardinal do not abſolutely exclude the one, but ſay, <hi>this does not appear, but rather that;</hi> will you therefore infer poſitively, <hi>therefore it can only belong to that?</hi> I aſſure you, <hi>Sir,</hi> if you have no better premiſſes to prove your o<g ref="char:EOLhyphen"/>ther Concluſions by, than what you have for this, tho' they may perplex the leſs Learned, yet any one who knows what connexion there ought to be betwixt the Premiſſes and the Concluſion, will deny your Conſequences.</p>
+            <p>But to make this clear; ſuppoſe <hi>I</hi> ſhould tell you, you cannot poſitively prove from that paſſage, <hi>Go ye baptizing all Nations. &amp;c.</hi> nor from any other in Scripture, without the general Practice and Authority of the Church, that Infants are to be baptized: I ſuppoſe you would not deny me the Propo<g ref="char:EOLhyphen"/>ſition. But ſhould I ſay, that paſſage, and all the other in Scripture concerning Bap<g ref="char:EOLhyphen"/>tiſm, can belong to no other but to Adults; I perſuade my ſelf you would not readily give me your aſſent. And if this be not a parallel caſe with the other, pray ſhew the difference. I might here return your own Complement, and tell you that I might have ſpared all this trouble, <hi>becauſe it is ſo clear, that there is no need of words to make an honeſt man underſtand it; and all the words in the world will ſignifie nothing, if a man be not ſo honeſt as he ſhould be.—But</hi> (Sir) <hi>it muſt be ſuch another man as</hi> You <hi>and the</hi> Defender <hi>ſeem to be, who reads the Cardinal's words, and can find him to be ſo poſitive as you ſay he was:</hi> But I do not think it proper to uſe ſo much Gall, where the ſimplicity of the Dove ought to prevail; eſpecially ſeeing you tell us, that <hi>they who are honeſt and wiſe, will not ſo much conſider who they are that break forth into the moſt vehement Exclamations,</hi> (I ſup<g ref="char:EOLhyphen"/>poſe you will give me leave to add, clamo<g ref="char:EOLhyphen"/>rous Cenſures, or bold Aſſertions) <hi>as who they are that bring the cleareſt Proofs.</hi>
+            </p>
+            <p>Thus, <hi>Sir,</hi> of the <hi>two Tales</hi> you lay to my charge, the firſt is a meer Cavil, and the other is plainly your own. So that I have a juſt occaſion given me from hence to admo<g ref="char:EOLhyphen"/>niſh You and the Defender, that if either of you undertake to vindicate him from thoſe <hi>Calumnies, Falſifications, falſe Tranſlati<g ref="char:EOLhyphen"/>ons,</hi> &amp;c. which I have ſo juſtly charged him with, you do not make your ſelves more guilty by eſpouſing their Defence; For tho' I think I might have excuſed the De<g ref="char:EOLhyphen"/>fender from a wilful intention to falſifie Cardinal <hi>Cajetan</hi> in his <hi>Expoſition,</hi> yet ſee<g ref="char:EOLhyphen"/>ing both He and You have gone about to defend that which was ſo plainly a Falſifi<g ref="char:EOLhyphen"/>cation; it is manifeſt that 'tis You your ſelves have <hi>done the prejudice either to your own Honeſty or <g ref="char:V">Ʋ</g>nderſtanding.</hi> Pray take your choice, for <hi>one</hi> at leaſt belongs to you.</p>
+            <p>You ſeem to boaſt of a Talent the De<g ref="char:EOLhyphen"/>fender has of Anſwering Books ſo quickly. Much good may do him with it. I envy him not; but wiſh he would take more care to ſtudy what he ſays himſelf, and to peruſe the Collections that others bring him in, that we may not hereafter be trou<g ref="char:EOLhyphen"/>bled with falſe Tranſlations, or ſo many things to ſo little purpoſe. For my own part, I thank God I have other Employ<g ref="char:EOLhyphen"/>ments, which I am ſure are much prefera<g ref="char:EOLhyphen"/>ble to this; ſo that it is only ſpare minutes, which are not many, that I have to employ, the reſt are ſpent in a nearer Service to my Maſter.</p>
+            <p>And yet, <hi>Sir,</hi> I have ſo much Zeal for the Salvation of my Brethren, that I will beſtow ſome moments to peruſe your Book, and ſhew you (if you have, as you ſay, a deſire, and will not let the prejudice of your Edu<g ref="char:EOLhyphen"/>cation hinder you from taking the means, to be ſaved) what reaſon the Council of <hi>Trent</hi> had to <hi>Anath<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>matize</hi> all thoſe who deny the Sacrament of Extreme Unction, and how little you have brought againſt the uninterrupted Practice of the Church ever ſince the Apoſtles times. But this ſhall be the ſubject of another Letter, from,</p>
+            <closer>
+               <signed>SIR, <hi>Your Friend and Servant.</hi>
+               </signed>
+               <dateline>
+                  <date>Decemb. 5. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed by <hi>Henry Hills,</hi> Printer to the King's Moſt Excellent Majeſty for His Houſhold and Chappel; And are to be ſold at his Printing-houſe on the Ditch-ſide in <hi>Black-Fryers.</hi> 1687.</p>
+            <pb facs="tcp:47488:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
